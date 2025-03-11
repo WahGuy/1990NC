@@ -188,7 +188,7 @@ campaignTrail_temp.questions_json = [
         "pk": 743,
         "fields": {
             "priority": 4,
-            "description": "It looks like the primaries are about to happen. Let's hope that you win.",
+            "description": "After months of handshakes, speeches, and hard work, primary night is finally here. Let’s hope you pull it off!",
             "likelihood": 1
         }
     },
@@ -341,7 +341,7 @@ campaignTrail_temp.questions_json = [
         "pk": 17106,
         "fields": {
             "priority": 4,
-            "description": "It looks like the primaries are about to happen. Let's hope that you win.",
+            "description": "After months of handshakes, speeches, and hard work, primary night is finally here. Let’s hope you pull it off!",
             "likelihood": 1
         }
     },
@@ -350,7 +350,7 @@ campaignTrail_temp.questions_json = [
         "pk": 17110,
         "fields": {
             "priority": 4,
-            "description": "It looks like the primaries are about to happen. Let's hope that you win.",
+            "description": "After months of handshakes, speeches, and hard work, primary night is finally here. Let’s hope you pull it off!",
             "likelihood": 1
         }
     },
